@@ -17,7 +17,7 @@ public class WebpageTest {
     driver = new ChromeDriver();
     driver.manage().window().maximize();
     Thread.sleep(2000);
-    driver.get("https://nithu2707.github.io/DevOps-VTU-MVN/"); // "Note: You should use your
+    driver.get("https://nithu2707.github.io/final-prg2/"); // "Note: You should use your
     GITHUB-URL here...!!!"
 }
 
